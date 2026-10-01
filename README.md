@@ -40,9 +40,6 @@ To add a code link, replace that build's `<!-- TODO ... -->` comment with:
 <span class="links"><a href="https://github.com/Kazybekkh/REPO">code</a></span>
 ```
 
-On the teleop build, `video` is already there. Add `· <a href="...">code</a>`
-after it.
-
 ## house rules
 
 - lowercase copy, no em dashes.
