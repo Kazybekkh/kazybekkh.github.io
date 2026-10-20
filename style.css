@@ -82,17 +82,6 @@ a:focus-visible {
 
 .skip:focus { top: 1rem; }
 
-.intro-video {
-  display: block;
-  width: 100%;
-  max-width: 100%;
-  height: auto;
-  aspect-ratio: 16 / 9;
-  margin: 0 0 1rem;
-  border: 0;
-  background: var(--bg);
-}
-
 /* dated lists: work, communities */
 .dated,
 .builds,
